@@ -1,2 +1,2 @@
-# dockerapps
-App templates
+# Portainer config schemas for docker 
+
